@@ -1,2 +1,3 @@
 Hello git 
-this is my first changeHello GitHub 
+this is my first change. Hello GitHub! 
+Im adding this line directly from the GitHub.
